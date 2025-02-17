@@ -7,7 +7,7 @@ Glossario
 
   1.2 Sistema de Gerenciamento de Banco de Dados
     Esse sistema viza a facilitação do acesso, manutenção e gerenciamento dos dados do banco pelo usuário. Dentro desse contexto estipula-se a criação de interfaces faciltadores, que tem como objetivo serem intuitivas e projetadas para serem facilmente entendiveis,
-  de controlar como os dados são acessados, manipulados e acessados.
+  de controlar como os dados são acessados e manipulados. Essa facilitação tem como objetivo segurar a integridade dos dados, além da própria criação do banco.
     
 
 2 - O que é modelo relacional de bancos de dados.

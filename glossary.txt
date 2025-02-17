@@ -1,0 +1,27 @@
+Glossario 
+
+1 - o que é banco de dados e qual é a relação com sistema gerenciador de BD. (sgdb)
+
+  1.1 Banco de Dados
+    Banco de dados é uma coleção de dados feita de maneira orgazidada e eficiente, vizando o armazenamento, modificação, integridade, consulta e análises de maneira segura e amplamente escalável de números, textos, imagens, entre outros tipos de dados.
+
+  1.2 Sistema de Gerenciamento de Banco de Dados
+    Esse sistema viza a facilitação do acesso, manutenção e gerenciamento dos dados do banco pelo usuário. Dentro desse contexto estipula-se a criação de interfaces faciltadores, que tem como objetivo serem intuitivas e projetadas para serem facilmente entendiveis,
+  de controlar como os dados são acessados, manipulados e acessados.
+    
+
+2 - O que é modelo relacional de bancos de dados.
+
+  Modelo relacional de Banco de Dados é um modelo conceitual para organizar os dados em um banco. Ele consiste em separar em tabelas (relações) que são compostas por linhas e colunas. Nelas as colunas representam atributos e as linhas registros de uma entidade (objeto) da vida real.
+
+  2.1 Chave Primária: São colunas (atributos) que identificam uma série de linhas (registros) de maneira exclusiva e unica.
+
+  2.2 Chave Estrageira: São colunas de uma tabela que fazem referencia a uma chave primária de outra tabela, assim estabelecendo uma relação.
+
+O modelo relacional usa o SQL (Structured Query Language), uma linguagem que permite a manipulação de dados de maneira mais simplificada. Podem realizar operações como consultas, inserções, atualizações e exclusões de dados nas tabelas.
+
+3 - O que são microserviços
+
+  Microserviços é uma abordagem de arquitetura que visa separar as funções de um sistema em partes menores, tendo cada parte uma função e funcionamento independente uma da outra. A sua concepção visa a escabilidade, dada a natureza autossuficiente de cada serviço.
+as
+

@@ -25,3 +25,13 @@ O modelo relacional usa o SQL (Structured Query Language), uma linguagem que per
   Microserviços é uma abordagem de arquitetura que visa separar as funções de um sistema em partes menores, tendo cada parte uma função e funcionamento independente uma da outra. A sua concepção visa a escabilidade, dada a natureza autossuficiente de cada serviço.
 as
 
+4 - Na computação, o que é projetar e modelar um sistema e banco de dados?
+
+  4.1 Modelar um sistema
+
+  Identificar requisitos para um sistema, num plano mais conceitual e abstrato sobre a demanda do cliente. No caso de um banco de dados, será identificar os dados    que serão utilizados. "como será"
+
+  4.2 Projetar um sistema
+
+  Refinar a modelagem para prosseguir a construição prática do software. Ou seja, o projeto definirá como será desenvolvido o software. "como fazer"
+
